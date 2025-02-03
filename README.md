@@ -1,4 +1,4 @@
-# Limited efficiency of LLM-generated data augmentation in COVID-19 misinformation stance detection
+# Limited efficiency of LLM-generated data augmentation in COVID-19 misinformation stance detection (working repository)
 
 The repository contains scripts and data used in the paper [Limited efficiency of LLM-generated data augmentation in COVID-19 misinformation stance detection](https://doi.org/XXX).
 
